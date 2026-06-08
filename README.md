@@ -22,6 +22,7 @@ If the source exists, it can be improved. If it doesn't, it can be reversed.
 |---|---|
 | [Cheat-Eninge-Frankenstien-Build](https://github.com/lolidroid86/Cheat-Eninge-Frankenstien-Build) | CE 7.5 custom build — HOOK/UNHOOK, ifdef/else/endif, AOBSCANFUNCTION backported from CE 7.7; AITools extension + Inno Setup installer |
 | [Cosmic-MS-with-Rebirth-System](https://github.com/lolidroid86/Cosmic-MS-with-Rebirth-System) | HeavenMS GMS v83 fork — Rebirth System (@rebirth), expanded GM tools, private-server config |
+| [SkyrimCombatLogger](https://github.com/lolidroid86/SkyrimCombatLogger) | SKSE plugin — real-time hit/combat/death/MGEF logging; follower friendly-fire block; INI-configurable |
 
 ---
 
