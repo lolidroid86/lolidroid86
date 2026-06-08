@@ -16,4 +16,13 @@ If the source exists, it can be improved. If it doesn't, it can be reversed.
 
 ---
 
+**Repos:**
+
+| Project | What it is |
+|---|---|
+| [Cheat-Eninge-Frankenstien-Build](https://github.com/lolidroid86/Cheat-Eninge-Frankenstien-Build) | CE 7.5 custom build — HOOK/UNHOOK, ifdef/else/endif, AOBSCANFUNCTION backported from CE 7.7; AITools extension + Inno Setup installer |
+| [Cosmic-MS-with-Rebirth-System](https://github.com/lolidroid86/Cosmic-MS-with-Rebirth-System) | HeavenMS GMS v83 fork — Rebirth System (@rebirth), expanded GM tools, private-server config |
+
+---
+
 > *Currently building with Claude Code (AI pair programmer) — most repos here have a Co-Authored-By in the commit log.*
